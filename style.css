@@ -1,0 +1,36 @@
+
+html {
+    scroll-behavior:smooth;
+}
+
+body {
+   font-family: 'poppins', sans-serif;
+   background-color:black;
+   color: #e8e8e8;
+   user-select: none;
+
+}
+
+body::-webkit-scrollbar {
+    display: none;
+}
+
+.jumbotron {
+    background-image: url(mengenal-tari-faluaya-tradisi-keperwiraan-ala-suku-nias.jpg);
+    background-size: cover;
+    color: white;
+  }
+
+.my-4 img {
+    height: 10%;
+    width:50%
+}
+
+.my-4 button {
+    width: 50%;
+}
+
+.table{
+    background-color: #616161;
+    
+}
